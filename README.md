@@ -10,7 +10,7 @@ One click on the site starts your download. One click in the manager installs th
 
 *Easy to use*
 
-Simply enter the URL where your mod is and the manager will download it for you to use the next time you run Minecraft.
+Simply enter the URL where your mod is and the manager will download it for you to use the next time you run Minecraft. The manager even checks for new versions and updates automatically in the background without interrupting your use.
 
 *Built in download manager*
 
